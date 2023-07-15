@@ -1,0 +1,14 @@
+HTML COMEÇO 
+HEAD CORPO DENTRO DO PARAGRAFO 
+TITLE 
+BODY 
+H1
+H2
+UL LISTA DESORDENADA SEM NUMERO 
+OL LISTA ORDENADA COM NUMERO 
+        input tipo email 
+        <input type="email"> <br>
+        input tipo senha
+        <input type="password"> <br>
+        input tipo data 
+        <input type="date"> <br>
